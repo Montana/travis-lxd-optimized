@@ -2,7 +2,6 @@
 This is a garden variety document on issues that are open/closed (and what you can do to potentially speed up LXD builds on ARM). 
 
 ```yaml
----
 sudo: required
 dist: bionic
 language: python
